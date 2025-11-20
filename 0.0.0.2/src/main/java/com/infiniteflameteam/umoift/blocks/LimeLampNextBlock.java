@@ -1,0 +1,14 @@
+package com.infiniteflameteam.umoift.blocks;
+
+import net.minecraft.world.level.block.state.BlockBehaviour;
+
+public class LimeLampNextBlock extends AbstractColoredLampNextBlock {
+    public LimeLampNextBlock(BlockBehaviour.Properties properties) {
+        super(properties);
+    }
+
+    @Override
+    public String getColorName() {
+        return "lime";
+    }
+}
