@@ -150,6 +150,8 @@
 .waiting)
 
 (
+把/logshow指令加入，语法：开启：/logshow on <show per millsecond>   关闭：/logshow off            顾名思义，会把Minecraft当前运行日志显示出来，就是Minecraft原生的那个日志，重新进入/新创建世界时会自动/logshow off，每次启动需要手动开启
+.waiting)
 
 (
 其他等待写入中…
