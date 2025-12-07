@@ -78,7 +78,7 @@ repositories {
         name = "Forge"
         url = "https://maven.minecraftforge.net/"
     }
-    // 阿里云镜像 (加速常用库下载，但可能不包含所有Forge依赖)
+    // 阿里云镜像 (加速常用库下载)
     maven {
         url 'https://maven.aliyun.com/repository/public'
     }
@@ -89,6 +89,20 @@ repositories {
 dependencies {
     minecraft "net.minecraftforge:forge:${minecraft_version}-${forge_version}"
     annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
+    
+    // ===== 补上缺失的依赖 =====
+    // Gson (JSON处理)
+    implementation 'com.google.code.gson:gson:2.10.1'
+    
+    // SLF4J (日志接口)
+    implementation 'org.slf4j:slf4j-api:1.8.0-beta4'
+    runtimeOnly 'org.apache.logging.log4j:log4j-slf4j-impl:2.19.0'
+    
+    // Brigadier (命令系统)
+    implementation 'com.mojang:brigadier:1.0.18'
+    
+    // LWJGL GLFW (仅客户端用)
+    implementation 'org.lwjgl:lwjgl-glfw:3.3.1'
 }
 
 mixin {

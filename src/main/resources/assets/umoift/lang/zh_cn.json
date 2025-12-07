@@ -1,155 +1,19 @@
 {
-  "comment_block.umoift.white_lamp_next": "白色灯",
-  "comment_block.umoift.orange_lamp_next": "橙色灯",
-  "comment_block.umoift.magenta_lamp_next": "品红色灯",
-  "comment_block.umoift.light_blue_lamp_next": "淡蓝色灯",
-  "comment_block.umoift.yellow_lamp_next": "黄色灯",
-  "comment_block.umoift.lime_lamp_next": "黄绿色灯",
-  "comment_block.umoift.pink_lamp_next": "粉红色灯",
-  "comment_block.umoift.gray_lamp_next": "灰色灯",
-  "comment_block.umoift.light_gray_lamp_next": "淡灰色灯",
-  "comment_block.umoift.cyan_lamp_next": "青色灯",
-  "comment_block.umoift.purple_lamp_next": "紫色灯",
-  "comment_block.umoift.blue_lamp_next": "蓝色灯",
-  "comment_block.umoift.brown_lamp_next": "棕色灯",
-  "comment_block.umoift.green_lamp_next": "绿色灯",
-  "comment_block.umoift.red_lamp_next": "红色灯",
-  "comment_block.umoift.black_lamp_next": "黑色灯",
-
-  "comment_item.umoift.white_lamp_next": "白色灯",
-  "comment_item.umoift.orange_lamp_next": "橙色灯",
-  "comment_item.umoift.magenta_lamp_next": "品红色灯",
-  "comment_item.umoift.light_blue_lamp_next": "淡蓝色灯",
-  "comment_item.umoift.yellow_lamp_next": "黄色灯",
-  "comment_item.umoift.lime_lamp_next": "黄绿色灯",
-  "comment_item.umoift.pink_lamp_next": "粉红色灯",
-  "comment_item.umoift.gray_lamp_next": "灰色灯",
-  "comment_item.umoift.light_gray_lamp_next": "淡灰色灯",
-  "comment_item.umoift.cyan_lamp_next": "青色灯",
-  "comment_item.umoift.purple_lamp_next": "紫色灯",
-  "comment_item.umoift.blue_lamp_next": "蓝色灯",
-  "comment_item.umoift.brown_lamp_next": "棕色灯",
-  "comment_item.umoift.green_lamp_next": "绿色灯",
-  "comment_item.umoift.red_lamp_next": "红色灯",
-  "comment_item.umoift.black_lamp_next": "黑色灯",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  "block.umoift.white_lamp_next": "白色灯",
-  "block.umoift.orange_lamp_next": "橙色灯",
-  "block.umoift.magenta_lamp_next": "品红色灯",
-  "block.umoift.light_blue_lamp_next": "淡蓝色灯",
-  "block.umoift.yellow_lamp_next": "黄色灯",
-  "block.umoift.lime_lamp_next": "黄绿色灯",
-  "block.umoift.pink_lamp_next": "粉色灯",
-  "block.umoift.gray_lamp_next": "灰色灯",
-  "block.umoift.light_gray_lamp_next": "淡灰色灯",
-  "block.umoift.cyan_lamp_next": "青色灯",
-  "block.umoift.purple_lamp_next": "紫色灯",
-  "block.umoift.blue_lamp_next": "蓝色灯",
-  "block.umoift.brown_lamp_next": "棕色灯",
-  "block.umoift.green_lamp_next": "绿色灯",
-  "block.umoift.red_lamp_next": "红色灯",
-  "block.umoift.black_lamp_next": "黑色灯",
-
-  "umoift.claim.no_permission.break": "§c你没有权限破坏这个方块",
-  "umoift.claim.no_permission.build": "§c你没有权限放置方块",
-  "umoift.claim.no_permission.interact": "§c你没有权限交互这个方块",
-  "umoift.claim.no_permission.interact_entity": "§c你没有权限交互这个实体",
-  "umoift.claim.no_permission.use": "§c你没有权限使用物品",
-  "umoift.claim.enter": "§e进入了 §f%s §e的 §f%s",
-  "umoift.claim.leave": "§e离开了 §f%s §e的 §f%s",
-
-  "umoift.dialog.button.ok": "确定",
-  "umoift.dialog.button.yes": "是",
-  "umoift.dialog.button.no": "否",
-  "umoift.dialog.button.cancel": "取消",
-  "umoift.dialog.title.default": "UMOIFT 模组",
-  "umoift.dialog.welcome.message": "欢迎使用无限火队通用模组！",
-
-  "umoift.command.claim.created": "§a成功创建领地: §e%s",
-  "umoift.command.claim.created_fail": "§c创建领地失败: 领地名已存在或位置重叠",
-  "umoift.command.claim.deleted": "§a成功删除领地: §e%s",
-  "umoift.command.claim.deleted_fail": "§c删除领地失败: 领地不存在或你没有权限",
-  "umoift.command.claim.modified": "§a成功修改领地: §e%s §a-> §e%s",
-  "umoift.command.claim.modified_fail": "§c修改领地失败: 领地不存在、新领地名已存在、位置重叠或你没有权限",
-  "umoift.command.claim.permission_set": "§a成功设置玩家 §e%s §a的权限 §e%s §a为: §f%s",
-  "umoift.command.claim.permission_owner": "§c不能修改领地主人的权限",
-  "umoift.command.claim.op_added": "§a成功添加全局OP: §e%s",
-  "umoift.command.claim.op_removed": "§a成功移除全局OP: §e%s",
-  "umoift.command.claim.op_already": "§c该玩家已经是全局OP",
-  "umoift.command.claim.not_op": "§c该玩家不是全局OP",
-
-  "umoift.command.dialog.show_success": "§a向 §e%d §a名玩家显示对话框",
-  "umoift.command.dialog.show_fail": "§c显示对话框失败: %s",
-  "umoift.command.dialog.clear_success": "§a已为 §e%d §a名玩家清除对话框",
-  "umoift.command.dialog.clear_fail": "§c清除对话框失败: %s",
-  "umoift.command.dialog.list": "可用对话框: %s",
-  "umoift.command.dialog.reload_success": "§a对话框重载完成",
-  "umoift.command.dialog.reload_fail": "§c重载失败: %s",
-
-  "umoift.error.only_player": "只有玩家可以执行此命令",
-  "umoift.error.no_targets": "未选中任何玩家",
-  "umoift.error.generic": "错误: %s",
-  "umoift.error.snbt_parse": "SNBT解析错误: %s",
-
-  "umoift.help.claim.header": "§6=== 领地命令帮助 ===",
-  "umoift.help.claim.addclaim": "§e/claim addclaim <领地名> <from> <to> §7- 创建领地",
-  "umoift.help.claim.listclaim": "§e/claim listclaim §7- 列出所有领地",
-  "umoift.help.claim.queryclaim": "§e/claim queryclaim <领地名> §7- 查询领地详细信息",
-  "umoift.help.claim.removeclaim": "§e/claim removeclaim <领地名> §7- 删除领地（需权限）",
-  "umoift.help.claim.changeclaim": "§e/claim changeclaim <旧领地名> <新领地名> <新from> <新to> <旧主人> <新主人> §7- 修改领地（需权限）",
-  "umoift.help.claim.setpermission": "§e/claim setpermissionstoclaim <领地名> <玩家> <权限名> <true|false> §7- 设置玩家权限（需权限）",
-  "umoift.help.claim.op": "§e/claim op <玩家> §7- 添加全局OP（需管理员权限）",
-  "umoift.help.claim.deop": "§e/claim deop <玩家> §7- 移除全局OP（需管理员权限）",
-  "umoift.help.claim.help": "§e/claim help §7- 显示帮助信息",
-  "umoift.help.claim.permissions": "§6可用权限名: §7build, break, interact, use, pvp, explosion, fire_spread, mob_griefing"
+  "creativetab.umoift_tab": "无限火焰团队模组",
+  "block.umoift.white_lamp_next": "白色灯具",
+  "block.umoift.orange_lamp_next": "橙色灯具",
+  "block.umoift.magenta_lamp_next": "品红色灯具",
+  "block.umoift.light_blue_lamp_next": "淡蓝色灯具",
+  "block.umoift.yellow_lamp_next": "黄色灯具",
+  "block.umoift.lime_lamp_next": "黄绿色灯具",
+  "block.umoift.pink_lamp_next": "粉色灯具",
+  "block.umoift.gray_lamp_next": "灰色灯具",
+  "block.umoift.light_gray_lamp_next": "淡灰色灯具",
+  "block.umoift.cyan_lamp_next": "青色灯具",
+  "block.umoift.purple_lamp_next": "紫色灯具",
+  "block.umoift.blue_lamp_next": "蓝色灯具",
+  "block.umoift.brown_lamp_next": "棕色灯具",
+  "block.umoift.green_lamp_next": "绿色灯具",
+  "block.umoift.red_lamp_next": "红色灯具",
+  "block.umoift.black_lamp_next": "黑色灯具"
 }
