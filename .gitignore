@@ -23,3 +23,96 @@ run
 
 # Files from Forge MDK
 forge*changelog.txt
+
+# Minecraft Forge 特定
+run/
+logs/
+crash-reports/
+saves/
+world/
+*.log
+hs_err_pid*.log
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# 虚拟机崩溃日志
+hs_err_pid*
+replay_pid*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.nfs*
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# 版本控制
+*.orig
+*.rej
+
+# 构建输出
+build/
+target/
+out/
+.gradle/
+build/
+bin/
+classes/
+
+# IDE 特定
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 模组开发特定
+*.lck
+*.log
+*.properties
+*.json5
+*.hjson
+*.yaml
+*.yml
+
+# 运行时文件
+config/
+mods/
+saves/
+screenshots/
+resourcepacks/
+shaderpacks/
+options.txt
+servers.dat
+usercache.json
+usernamecache.json
+banned-players.json
+banned-ips.json
+ops.json
+whitelist.json
+
+# 开发工具
+*.launch
+*.userlibraries
